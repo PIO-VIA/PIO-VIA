@@ -29,6 +29,10 @@ Mon objectif est de continuer à apprendre et à grandir en tant que apprenti d�
 
 Merci d'avoir visité mon profil ! N'hésite pas à explorer mes projets et à me faire part de tes commentaires. 😄
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PIO-VIA&layout=compact&theme=radical)
+
+![Pio's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIO-VIA&show_icons=true&theme=radical)
+
 <!-- WakaTime Stats -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
