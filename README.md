@@ -28,6 +28,11 @@ Mon objectif est de continuer à apprendre et à grandir en tant que apprenti d�
 ---
 
 Merci d'avoir visité mon profil ! N'hésite pas à explorer mes projets et à me faire part de tes commentaires. 😄
+
+<!-- WakaTime Stats -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!---
 PIO-VIA/PIO-VIA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
