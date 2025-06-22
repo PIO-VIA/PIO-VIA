@@ -28,7 +28,7 @@ Mon objectif est de continuer à apprendre et à grandir en tant que apprenti d�
 ---
 
 Merci d'avoir visité mon profil ! N'hésite pas à explorer mes projets et à me faire part de tes commentaires. 😄
-
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
@@ -53,7 +53,7 @@ Merci d'avoir visité mon profil ! N'hésite pas à explorer mes projets et à m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman" />
-
+</p>
 
 
 
