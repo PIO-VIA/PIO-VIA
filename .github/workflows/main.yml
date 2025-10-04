@@ -5,17 +5,20 @@ on:
     - cron: '0 0 * * *'  # mise à jour quotidienne
   workflow_dispatch:
 
+permissions:
+  contents: write  
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-      - name: Update WakaTime stats
-        uses: zhanghaoran0406/wakatime-readme-action@v2
+      - name: Update WakaTime stats in README
+        uses: anmol098/waka-readme-stats@v3.0
         with:
-          wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          update_readme: true
-          commit_message: "Update WakaTime stats"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MESSAGE: "Update WakaTime stats"
