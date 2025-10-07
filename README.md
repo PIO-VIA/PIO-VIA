@@ -54,7 +54,9 @@ Curious, driven, and always learning, I'm on a journey to become a **world-class
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIO-VIA&bg_color=0d1117&color=FF6B00&line=FFB300&point=FFFFFF&hide_border=true" alt="Graphique de Contribution" />
 
 <!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=PIO-VIA&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=4&rank=SECRET,S,SS,SSS,A,AA,AAA,B,BB" alt="Trophées" />
+<p align="center">
+<img src=" https://github-profile-trophy.vercel.app/?username=PIO-VIA&theme=darkhub&no-frame=true&margin-w=15 " />
+</p>
 
 ---
 
