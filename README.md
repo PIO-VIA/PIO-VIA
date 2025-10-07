@@ -47,7 +47,7 @@ Curious, driven, and always learning, I'm on a journey to become a **world-class
 ---
 
 ## 📊 GitHub Stats
-<p>
+<p align="left">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PIO-VIA&layout=compact&theme=radical)  
 ![Pio's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIO-VIA&show_icons=true&theme=radical)  
