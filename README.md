@@ -34,8 +34,7 @@ Curious, driven, and always learning, I'm on a journey to become a **world-class
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes" />
   <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="40" alt="GitHub Actions" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab CI/CD" />
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" alt="FastAPI" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ScyllaDB_logo.svg" width="40" alt="ScyllaDB" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ IDEA" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
