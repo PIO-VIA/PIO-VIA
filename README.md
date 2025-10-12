@@ -76,6 +76,8 @@ Curious, driven, and always learning, I'm on a journey to become a **world-class
 
 ✨ *"Passionate about turning ideas into code that makes a difference."*  
 
+[![Profile Views](https://komarev.com/ghpvc/?username=Tiger-Foxx&style=for-the-badge&color=blue)](https://github.com/PIO-VIA)
+
 
 
 <!--START_SECTION:waka-->
