@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Pio Vianney
 
-### 💻 Software & Web Developer | DevOps Enthusiast | AI & Cloud Explorer  
+###  Software & Web Developer | DevOps Enthusiast | AI & Cloud Explorer  
 
 I'm a **Computer Engineering student at ENSPY**, passionate about **building impactful software solutions**.
 I enjoy exploring **modern web technologies, DevOps practices, and AI tools** to solve real-world challenges.
@@ -8,7 +8,7 @@ Curious, driven, and always learning, I'm on a journey to become a **world-class
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
@@ -44,14 +44,14 @@ Curious, driven, and always learning, I'm on a journey to become a **world-class
 ---
 
 ## 🎯 Focus Areas
-- 🌍 Building scalable **web apps & APIs**  
-- ☁️ Learning **Cloud Computing & DevOps (Docker, K8s, CI/CD)**  
-- 🤖 Exploring **Machine Learning & Data Engineering**  
-- 🛠️ Writing clean, maintainable code for real-world impact  
+-  Building scalable **web apps & APIs**  
+-  Learning **Cloud Computing & DevOps (Docker, K8s, CI/CD)**  
+-  Exploring **Machine Learning & Data Engineering**  
+-  Writing clean, maintainable code for real-world impact  
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PIO-VIA&layout=compact&theme=radical)  
@@ -68,7 +68,7 @@ Curious, driven, and always learning, I'm on a journey to become a **world-class
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 - 📧 [Email Me](mailto:piodjiele@gmail.com)  
  
 
