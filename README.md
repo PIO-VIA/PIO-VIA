@@ -80,5 +80,4 @@ Curious, driven, and always learning, I'm on a journey to become a **world-class
 
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
