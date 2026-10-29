@@ -84,17 +84,6 @@ Currently growing toward becoming a **world-class Software / Platform Engineer**
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔍 QueryLens
-A developer-focused tool designed to simplify query inspection, debugging, and improve engineering productivity.
-
-### 💻 JPIO
-A practical CLI / tooling project built to solve real developer workflow problems and automate repetitive engineering tasks.
-
-
----
-
 ## 🎯 Current Focus
 
 - Building scalable backend systems & APIs  
